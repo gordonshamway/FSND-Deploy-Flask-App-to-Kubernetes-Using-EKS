@@ -5,6 +5,8 @@
 *.pyo
 env/
 env*
+aws_cluster_deployment_infos/
+*.env*
 dist/
 build/
 *.egg
